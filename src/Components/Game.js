@@ -75,7 +75,7 @@ const Game = () => {
             <div>{moves}</div>
           </div>
         </div>
-        <a href="http://localhost:3000/" className="gitHub">This progect on GitHub</a>
+        <a href="https://github.com/AntohaD/Tic-tac-toe" className="gitHub">This progect on GitHub</a>
       </div>
   )
 }
